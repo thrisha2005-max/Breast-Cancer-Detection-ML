@@ -33,4 +33,4 @@ The dataset is imported from `sklearn.datasets.load_breast_cancer`, which contai
 The trained SVM model achieves good accuracy in predicting breast cancer cases.
 
 **Author**
-Your name
+Thriaha sm
